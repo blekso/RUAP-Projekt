@@ -1,1 +1,1 @@
-console.log('Pozdrav iz aplikacije od Mihaela Ištvana')
+console.log('Pozdrav iz aplikacije od Mihaela Ištvana 0165078446')
